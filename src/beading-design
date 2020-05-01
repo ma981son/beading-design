@@ -1,0 +1,6 @@
+package de.htwg.se.beading-design
+
+object beading-design {
+  def main(args: Array[String]): Unit = {
+}
+}
